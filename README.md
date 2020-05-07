@@ -7,6 +7,7 @@
 |66|[Plus One](https://leetcode.com/problems/plus-one) |[Python](./solutions/plus_one.py)|
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)| [Python](./solutions/replace_elements_with_greatest_element_on_right_side.py) |
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | [Python](./solutions/binary_tree_preorder_traversal.py) |
+|144|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Python](./solutions/binary_tree_inorder_traversal.py) |
 
 
 ## 30-Day LeetCoding Challenge
